@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9e9c73117cb757ea60fbf9fbcd09cb44.js"
+  "/precache-manifest.407debf80826d469335ca995a5806bd6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "trust-domains"});
