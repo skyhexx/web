@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="730px" height="259px" viewBox="0 0 730 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trust-black</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#fff" offset="0%"></stop>
+            <stop stop-color="#fff" offset="100%"></stop>
+        </linearGradient>
+        <path d="M97,124 L153,182.645502 L153,219.283677 L97,258.143581 L97,124 Z M0,1.42108547e-14 L250,0.147932264 L222,55.1479323 L153,55.1479323 L153,155.645502 L97,97 L97,55.39463 L28,55.39463 L0,1.42108547e-14 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trust-white">
+            <circle id="椭圆形" fill="#EA4436" cx="186" cy="203" r="18"></circle>
+            <g id="路径-4">
+                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+            <text id="Domains" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="100" font-weight="normal" fill="#fff">
+                <tspan x="305" y="215">Domains</tspan>
+            </text>
+            <text id="Trust备份" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="100" font-weight="normal" fill="#fff">
+                <tspan x="305" y="103">Trust</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
